@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c00150-271e-472a-afd0-2ade3d25e376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/M2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaylee.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kaylee.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="09c00150-271e-472a-afd0-2ade3d25e376" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/Kaylee.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -254,7 +247,7 @@
     <entry file="file://$PROJECT_DIR$/Kaylee.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
