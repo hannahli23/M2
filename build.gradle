@@ -21,6 +21,11 @@ repositories {
     mavenCentral()
 }
 
+defaultTasks 'hello'
+
+task hello {
+    print 'hello!'
+}
 javadoc {
     source = sourceSets.main.allJava
     classpath = configurations.compile
@@ -59,8 +64,6 @@ dependencies {
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
 
-    //compile files('lib/resources.jar')
-    //compile name: 'resources'
     compile files('lib/resources.jar')
 
 }

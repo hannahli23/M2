@@ -62,7 +62,7 @@ import edu.gatech.oad.antlab.pkg2.*;
 		    toPrint += p4.toString("wli423");
 
 		    Person5 p5 = new Person5("Olivia");
-		    toPrint += p5.toString("gburdell5");
+		    toPrint += p5.toString("oamyette3");
 
 		    System.out.println(toPrint);
         }
